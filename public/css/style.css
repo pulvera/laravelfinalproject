@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.register {
+    position: absolute;
+    left: 41%;
+    background-color: beige;
+    padding: 20px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.login{
+    position: absolute;
+    left: 44.5%;
+    top: 72%;
+    background-color: beige;
+    padding: 20px;
+    border-radius: 5px;
+    width: 200px;
+    text-align: center;
+}
+.register input {
+    width: 200px;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 5px;
+
+}
+
+.login input{
+    width: 200px;
+    height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 5px;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.btn_reg{
+    padding: 10px;
+}
+
+.btn_log{
+    padding: 10px;
+}

@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.register {
+
+   position: absolute;
+   left: 7%;
+   background-color: whitesmoke;
+   padding: 150px;
+   padding-top: 3%;
+   border-radius: 9px;
+   height: 500px;
+   box-shadow: 5px 10px black;
+   margin-top: 4%;
+}
+
+.register:hover{
+    background-color: lightgray;
+    transition: 2.0s ease-in-out;
+}
+
+.login:hover{
+    background-color: lightgray;
+    transition: 2.0s ease-in-out;
+}
+
+
+
+h1{
+   position: relative;
+    font-family: Poppins;
+   font-size: 32px;
+
+
+}
+
+.register input {
+
+    border: 3px solid black;
+    border-radius: 3px;
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 15px;
+    box-shadow: 5px 3px black;
+}
+
+
+.btn_reg {
+    width: 130px;
+    height: 70px;
+   position: relative;
+   left: 21%;
+    font-family: Roboto;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+
+}
+
+.btn_reg:hover{
+
+    background-color: white;
+    transition: 0.8s ease;
+    color: black;
+}
+
+.btn_log{
+    width: 130px;
+    height: 70px;
+   position: relative;
+   left: 25%;
+    font-family: Roboto;
+    cursor: pointer;
+    font-size: 18px;
+    border-radius: 15px;
+    background-color: black;
+    color: white;
+    
+
+}
+
+.btn_log:hover{
+
+    background-color: white;
+    transition: 0.8s ease;
+    color: black;
+}
+
+h2 {
+
+   font-family: Poppins;
+   font-size: 32px;
+   position: absolute;
+   left: 35%;
+   bottom: 84%;
+ 
+  
+}
+
+.login{
+
+    position: absolute; 
+    left: 53%;
+    top: 15%;
+    padding: 150px;
+    background-color: whitesmoke;
+    border-radius: 9px;
+    box-shadow: 5px 10px black;
+
+    
+    
+}
+.login form input {
+
+    border: 3px solid black;
+    border-radius: 3px;
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 15px;
+    box-shadow: 5px 3px black;
+    
+
+}

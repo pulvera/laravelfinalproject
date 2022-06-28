@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.register {
+
+   position: relative;
+   left: 50%;
+   background-color: whitesmoke;
+   padding: 150px;
+   padding-top: 3%;
+   border-radius: 9px;
+   height: 500px;
+   box-shadow: 5px 10px black;
+   margin-top: 4%;
+}
+
+.register:hover{
+    background-color: lightgray;
+    transition: 2.0s ease-in-out;
+}
+h1{
+    
+    position: relative;
+     font-family: Poppins;
+    font-size: 32px;
+    
+ 
+ 
+ }

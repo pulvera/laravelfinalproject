@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    text-align: center;
+    margin-top:5%;
+    background-color: beige;
+    padding: 20px;
+}
+
+table{
+    margin: auto;
+    padding: 5px;
+}
+
+th{
+  padding: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: beige;
+}
+
+td{
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-add{
+    position: absolute;
+    left: 80%;
+    top: 12%;
+    padding: 20px;
+    background-color: beige;
+}
+
+.btn-add a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+
+button{
+    position: absolute;
+    left: 87%;
+    top: 12%;
+    padding: 20px;
+    background-color: beige;
+
+}
+
+button a{
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
